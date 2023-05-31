@@ -1,0 +1,15 @@
+[
+    "tsconfig.json",
+    ".gitignore",
+    "README.md",
+    "src/test/runTest.ts",
+    "src/extension.ts",
+    "src/commands/boldSelection.ts",
+    "src/commands/italiciseSelection.ts",
+    "src/commands/strikethroughSelection.ts",
+    "src/test/boldSelection.test.ts",
+    "src/test/italiciseSelection.test.ts",
+    "src/test/strikethroughSelection.test.ts",
+    "package.json",
+    ".vscode/launch.json"
+]
