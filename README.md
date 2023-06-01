@@ -1,5 +1,7 @@
 # Markdown Text Styler Extension
 
+![Markdown Formatting](https://ik.imagekit.io/fpjzhqpv1/vid_0WR8Lq0MB.gif)
+
 ## Overview
 
 This project is a Visual Studio Code extension that allows users to bold, italicise, and strikethrough selected markdown text. It provides three commands: "bold selection", "italicise selection", and "strikethrough selection".
